@@ -27,8 +27,8 @@ This course emphasises skill development, such as critical thinking, problem sol
 
 - [x] **C1-SCH4U Grade12U Chemistry**
 - [x] **C2-MHF4U Grade12U Advanced Functions**
-- [x] **C3-MCV4U Grade12U Calculus & Vectors**
-      [Note: Mathematics 0110A/B or 0105A/B, is strongly recommended.]
+- [x] **C3-MCV4U Grade12U Calculus & Vectors**  
+       [Note: Mathematics 0110A/B or 0105A/B, is strongly recommended.]
 
 **Course Content**
 
