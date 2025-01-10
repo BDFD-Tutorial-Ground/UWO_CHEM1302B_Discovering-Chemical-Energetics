@@ -7,43 +7,28 @@
  * @FilePath: \3.0-Course-Name_Coursera_Template\README.md
 -->
 
-About This workshop and the materials in this repo are for anyone who is interested in working with Data Science to produce high quality, working style!
-
-Descritpion Template
-Quizzes & Assignment Solutions for Entire $(Course Name) on Coursera. Also included a few resources on side that I found helpful.
-
-Common Tag: data-science, python, data-visualization, cousera, assignment-solution, quiz, sql, data-analytics, excel
-
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](<https://views.whatilearened.today/views/github/$(github_user)/$(repo_address).svg?cache=remove>)
-![GitHub top language](<https://img.shields.io/github/languages/top/$(github_user)/$(repo_address)?style=flat>)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_?style=flat)
-![GitHub language count](<https://img.shields.io/github/languages/count/$(github_user)/$(repo_address)?style=flat>)
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
+![ViewCount](https://views.whatilearened.today/views/github/BDFD-Tutorial-Ground/OP-UWO_CHEM1302B_Discovering-Chemical-Energetics.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/BDFD-Tutorial-Ground/OP-UWO_CHEM1302B_Discovering-Chemical-Energetics?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFD-Tutorial-Ground/OP-UWO_CHEM1302B_Discovering-Chemical-Energetics?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
 
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>$(Course-NAME{Coursera})[![View My Profile]
+<!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" /> -->
+
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>CHEM1302B-Discovering Chemical Energetics
 
 ## About This Course/Certificate
 
 ![commits](https://img.shields.io/github/last-commit/BDFD-LearningGround/Cousera_Google-Data-Analytics-Professional-Certificate?label=Last%20Commit%20)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffffff&color=316999"/>  
-  <img src="https://img.shields.io/badge/pandas-%23130754.svg?style=plastic&logo=pandas&logoColor=white&color=4E447F"/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white&color=416572"/>
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white&color=3F4F75">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F89939.svg?style=plastic&logo=scikit-learn&logoColor=white&color=FCA043"/>
-  <img src="https://img.shields.io/badge/Jupyter-%23F37725.svg?style=plastic&logo=jupyter&logoColor=white"/>
-</p> 
-An introductory course in physics for students intending to concentrate their future studies in the physical sciences, optometry, or mathematics; includes vectors (dot and cross products), particle kinematics and dynamics, forces in nature, work and energy, conservation of energy and linear momentum, rotational kinematics and dynamics, and conservation of angular momentum.
+This course emphasises skill development, such as critical thinking, problem solving, analysis, and quantitative reasoning; these transferrable skills are essential to success in not just chemistry but also in other courses and many occupations.
 
 **Course prerequisite**
 
-- [x] **C1-4U Calculus and Vectors**
-- [x] **C2-4U Advanced Functions**
-- [x] **C3-4U Physics**
-      [Note: Successful completion of 4U Calculus and Vectors, 4U Advanced Functions and 4U Physics is required. Offered: F, also offered online: W]
+- [x] **C1-SCH4U Grade12U Chemistry**
+- [x] **C2-MHF4U Grade12U Advanced Functions**
+- [x] **C3-MCV4U Grade12U Calculus & Vectors**
+      [Note: Mathematics 0110A/B or 0105A/B, is strongly recommended.]
 
 **Course Content**
 
@@ -58,39 +43,45 @@ An introductory course in physics for students intending to concentrate their fu
 
 The courses enlisted as follows:
 
-- [ ] **M1-Kinematics**
-- [ ] **M2-Dynamics**
-- [ ] **M3-Energy**
-- [ ] **M4-Linear Momentum**
-- [ ] **M5-Rotational Motion**
-- [ ] **M6-Angular Momentum**
+- [ ] **M1-Gases**
+- [ ] **M2-Thermodynamics and Thermochemistry**
+- [ ] **M3-Chemical Equilibria**
+- [ ] **M4-Solubility**
+- [ ] **M5-Weak Acids and Bases**
+- [ ] **M6-Electrochemistry**
+- [ ] **M7-Chemical Kinetics**
 
 ## Course Description: 1 Course
 
-University Enrolled : University of Waterloo  
-<img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/University_of_Waterloo.png" alt="bdfd" />
+University Enrolled : University of Western Ontario
+<img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/University_of_Western.png" alt="bdfd" />
 
 Main Instructor:
 
-1. Lecture Facilitator - Prof. Richard Epp
-2. Workshop Facilitator - Prof. Karen Cummings
+1. Section Instructor - Dr. Jamie Noel
+2. Section Instructor - Dr. Yang Song
+3. Section Instructor - Dr. Dr. Christina Booker\*
+4. Section Instructor - Dr. Dr. Francois Lagugne-Labarthet
+5. Lab Coordinator - M. Naeem Shahidf
 
 ## Applied Learning Project
 
 **Textbooks:**
 
-1. University Physics, 15th Ed. By Young and Freedman
+1. Chemistry 1302A/B Course Workbook, 24-25 Edition
+2. Chemistry 1302A/B Laboratory Manual and Past Exams, 2024-25 edition
 
 **Add-on Resources:**
 
-1. Mastering Physics on-line homework system
-2. Scientific Calculator
+1. Scientific Calculator
+1. Lab Coat & Safety Glasses
+1. Web-Enabled Device
 
 **Projects:**
 
 #### Useful Resources
 
-- [Course Link](https://www.coursera.org/professional-certificates/ibm-data-science)
+- Course material will be posted to OWL:[Course Link](https://westernu.brightspace.com)
 
 <div align="center">
 
