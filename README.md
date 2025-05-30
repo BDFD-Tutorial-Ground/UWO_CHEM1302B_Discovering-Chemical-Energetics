@@ -32,9 +32,9 @@ This course emphasises skill development, such as critical thinking, problem sol
 
 **Course Content**
 
-- [ ] **P1-Textbook(Publisher/Year)**
+- [x] **P1-Textbook(Macmillan Learning Curriculum Solution_2019-2020 Edition)**
 - [ ] **P2-Solution Mannual(Publisher/Year)**
-- [ ] **P3-Lecture Handout(Self Prepared for Publisher/Year)**
+- [x] **P3-Lecture Handout(Self Prepared_2024)**
 - [ ] **P4-Project Plan(Self Prepare)**
 - [ ] **P5-Unit Test Review Question(Publisher/Year)**
 - [ ] **P6-Exam Review Question(Publisher/Year)**
@@ -43,11 +43,11 @@ This course emphasises skill development, such as critical thinking, problem sol
 
 The courses enlisted as follows:
 
-- [ ] **M1-Gases**
-- [ ] **M2-Thermodynamics and Thermochemistry**
-- [ ] **M3-Chemical Equilibria**
-- [ ] **M4-Solubility**
-- [ ] **M5-Weak Acids and Bases**
+- [x] **M1-Gases**
+- [x] **M2-Thermodynamics and Thermochemistry**
+- [x] **M3-Chemical Equilibria**
+- [x] **M4-Solubility**
+- [x] **M5-Weak Acids and Bases**
 - [ ] **M6-Electrochemistry**
 - [ ] **M7-Chemical Kinetics**
 
