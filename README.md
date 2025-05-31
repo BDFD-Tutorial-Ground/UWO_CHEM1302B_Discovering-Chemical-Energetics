@@ -11,9 +11,9 @@
 ![ViewCount](https://views.whatilearened.today/views/github/BDFD-Tutorial-Ground/UWO_CHEM1302B_Discovering-Chemical-Energetics.svg?cache=remove)
 ![GitHub top language](https://img.shields.io/github/languages/top/BDFD-Tutorial-Ground/UWO_CHEM1302B_Discovering-Chemical-Energetics?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/BDFD-Tutorial-Ground/UWO_CHEM1302B_Discovering-Chemical-Energetics?style=flat)
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
+<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
 
-<!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" /> -->
+<!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" /> -->
 
 # <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>CHEM1302B-Discovering Chemical Energetics
 
