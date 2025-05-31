@@ -8,9 +8,9 @@
 -->
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](https://views.whatilearened.today/views/github/BDFD-Tutorial-Ground/OP-UWO_CHEM1302B_Discovering-Chemical-Energetics.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/BDFD-Tutorial-Ground/OP-UWO_CHEM1302B_Discovering-Chemical-Energetics?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFD-Tutorial-Ground/OP-UWO_CHEM1302B_Discovering-Chemical-Energetics?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/BDFD-Tutorial-Ground/UWO_CHEM1302B_Discovering-Chemical-Energetics.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/BDFD-Tutorial-Ground/UWO_CHEM1302B_Discovering-Chemical-Energetics?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFD-Tutorial-Ground/UWO_CHEM1302B_Discovering-Chemical-Energetics?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
 
 <!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" /> -->
@@ -19,7 +19,7 @@
 
 ## About This Course/Certificate
 
-![commits](https://img.shields.io/github/last-commit/BDFD-LearningGround/Cousera_Google-Data-Analytics-Professional-Certificate?label=Last%20Commit%20)
+![commits](https://img.shields.io/github/last-commit/BDFD-Tutorial-Ground/UWO_CHEM1302B_Discovering-Chemical-Energetics?label=Last%20Commit%20)
 
 This course emphasises skill development, such as critical thinking, problem solving, analysis, and quantitative reasoning; these transferrable skills are essential to success in not just chemistry but also in other courses and many occupations.
 
