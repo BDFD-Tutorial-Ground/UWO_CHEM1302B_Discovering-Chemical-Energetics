@@ -53,7 +53,7 @@ The courses enlisted as follows:
 
 ## Course Description: 1 Course
 
-University Enrolled : University of Western Ontario
+University Enrolled : University of Western Ontario  
 <img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/University_of_Western.png" alt="bdfd" />
 
 Main Instructor:
