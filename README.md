@@ -1,10 +1,12 @@
 <!--
- * @Author: BDFD
- * @Date: 2022-01-12 22:38:38
- * @LastEditTime: 2022-02-23 12:24:43
- * @LastEditors: BDFD
- * @Description:
- * @FilePath: \3.0-Course-Name_Coursera_Template\README.md
+ * @Date         : 2025-06-20 11:31:36
+ * @Author       : BDFD,bdfd2005@gmail.com
+ * @Github       : https://github.com/bdfd
+ * @LastEditTime : 2025-06-20 12:45:29
+ * @LastEditors  : <BDFD>
+ * @Description  :
+ * @FilePath     : \README.md
+ * Copyright (c) 2025 by BDFD, All Rights Reserved.
 -->
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
@@ -12,8 +14,6 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/BDFD-Tutorial-Ground/UWO_CHEM1302B_Discovering-Chemical-Energetics?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/BDFD-Tutorial-Ground/UWO_CHEM1302B_Discovering-Chemical-Energetics?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
-
-<!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" /> -->
 
 # <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>CHEM1302B-Discovering Chemical Energetics
 
@@ -32,12 +32,15 @@ This course emphasises skill development, such as critical thinking, problem sol
 
 **Course Content**
 
-- [x] **P1-Textbook(Macmillan Learning Curriculum Solution_2019-2020 Edition)**
-- [ ] **P2-Solution Mannual(Publisher/Year)**
-- [x] **P3-Lecture Handout(Self Prepared_2024)**
-- [ ] **P4-Project Plan(Self Prepare)**
-- [ ] **P5-Unit Test Review Question(Publisher/Year)**
-- [ ] **P6-Exam Review Question(Publisher/Year)**
+- [x] **C1-Texbook(Macmillan Learning Curriculum Solution/2019-2020)**
+- [ ] **C2-Solution Mannual(Publisher/Year)**
+- [x] **P3-Lecture Handout([SP01/2024]/[SN01/2024])**
+- [ ] **P4-Problem Set(Providers/Year)**
+- [ ] **P5-Course Project(Providers/Year)**
+- [x] **P6-Past Quiz(Providers/Year)**
+- [x] **P7-Past Test(Providers/Year)**
+- [x] **P8-Past Exam(Providers/Year)**
+- [x] **P9-Reference Note/Book(Providers/Year)**
 
 ## Course Learn Path - Modules
 
