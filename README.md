@@ -2,7 +2,7 @@
  * @Date         : 2025-06-20 11:31:36
  * @Author       : BDFD,bdfd2005@gmail.com
  * @Github       : https://github.com/bdfd
- * @LastEditTime : 2025-06-20 12:45:29
+ * @LastEditTime : 2025-06-20 12:58:13
  * @LastEditors  : <BDFD>
  * @Description  :
  * @FilePath     : \README.md
@@ -37,22 +37,31 @@ This course emphasises skill development, such as critical thinking, problem sol
 - [x] **P3-Lecture Handout([SP01/2024]/[SN01/2024])**
 - [ ] **P4-Problem Set(Providers/Year)**
 - [ ] **P5-Course Project(Providers/Year)**
-- [x] **P6-Past Quiz(Providers/Year)**
-- [x] **P7-Past Test(Providers/Year)**
-- [x] **P8-Past Exam(Providers/Year)**
-- [x] **P9-Reference Note/Book(Providers/Year)**
+- [ ] **P6-Past Quiz(Providers/Year)**
+- [ ] **P7-Past Test(Providers/Year)**
+- [ ] **P8-Past Exam(Providers/Year)**
+- [ ] **P9-Reference Note/Book(Providers/Year)**
 
 ## Course Learn Path - Modules
 
 The courses enlisted as follows:
 
-- [x] **M1-Gases**
-- [x] **M2-Thermodynamics and Thermochemistry**
-- [x] **M3-Chemical Equilibria**
-- [x] **M4-Solubility**
-- [x] **M5-Weak Acids and Bases**
-- [ ] **M6-Electrochemistry**
-- [ ] **M7-Chemical Kinetics**
+- [x] **C1-Prerequisite**
+- [x] **C2-Gases**
+- [x] **C3-Heat, Work, Energy**
+- [x] **C4-Enthalpy**
+- [x] **C5-Entropy and Spontaneous Change**
+- [x] **C6-Free Energy**
+- [x] **C7-The Equilibrium Constant**
+- [x] **C8-Solubility of Ionic Compound**
+- [x] **C9-Weak Acid and Base**
+- [ ] **C10-Buffer Solution**
+- [ ] **C11-Redox Reaction**
+- [ ] **C12-Voltaic Cell**
+- [ ] **C13-Electrolysis and Electrolytic Cells**
+- [ ] **C14-Batteries**
+- [ ] **C15-Reaction Rate and Rate Law**
+- [ ] **C16-Reaction Mechanism and Arrhenius Equation**
 
 ## Course Description: 1 Course
 
@@ -76,9 +85,17 @@ Main Instructor:
 
 **Add-on Resources:**
 
-1. Scientific Calculator
-1. Lab Coat & Safety Glasses
-1. Web-Enabled Device
+1. Chemistry 1302A/B Course Workbook, 2024-25 edition
+   This is the textbook and lecture note set for our course. This learning tool is designed by faculty in the Department of Chemistry and costs $78.25 at the bookstore. Since classes and assessments will be based on this year’s edition, we strongly recommend using this year’s edition.
+   Read the relevant topics prior to class, bring your workbook with you to class, and complete the practice problems after class.
+2. Chemistry 1302A/B Laboratory Manual and Past Exams, 2024-25 edition
+   This item includes a paper copy of the lab manual and past exams, and an access code to Macmillan’s Achieve platform, which will be used for lab preparation and submissions. This resources costs $94.35 at the bookstore and the current edition is required.
+   You will receive a personalized link to Achieve on OWL by Friday, January 17th. Use this link (and only your link!), your access code from your lab manual, and your @uwo.ca email address to sign up on Achieve before your first lab.
+3. Lab Coat & Safety Glasses
+   For your protection, safety glasses and a lab coat are required for the labs. You are welcome to bring ones that you already own. Scrubs or “consultation coats” are not acceptable because they are too short, do not offer enough protection, or are not sufficiently fire-resistant.
+   Safety glasses can alternatively be purchased from Western’s Chem Club and details will be provided on OWL.
+4. Scientific Calculator
+   A basic scientific calculator may be used in the labs and on the test and exam. No programmable calculators (capable of storing notes, formulas, graphing, etc.), smartphones, nor other electronic devices may be used.
 
 **Projects:**
 
@@ -99,5 +116,3 @@ Main Instructor:
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/bdfd)
 
 </div>
-
-<!-- ![Certificate](https://cdn.jsdelivr.net/gh/BDFD-LearningGround/Certificate-Folder/6.0-Others/Course-Version%20Control%20with%20Git/Course-Version%20Control%20with%20Git.jpeg) -->
