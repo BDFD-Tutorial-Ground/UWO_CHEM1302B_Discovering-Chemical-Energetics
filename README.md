@@ -2,7 +2,7 @@
  * @Date         : 2025-06-20 11:31:36
  * @Author       : BDFD,bdfd2005@gmail.com
  * @Github       : https://github.com/bdfd
- * @LastEditTime : 2025-06-20 12:58:13
+ * @LastEditTime : 2025-06-20 13:12:02
  * @LastEditors  : <BDFD>
  * @Description  :
  * @FilePath     : \README.md
@@ -32,7 +32,7 @@ This course emphasises skill development, such as critical thinking, problem sol
 
 **Course Content**
 
-- [x] **C1-Texbook(Macmillan Learning Curriculum Solution/2019-2020)**
+- [x] **C1-Texbook(Discovering Chemical Energetics/2019)**
 - [ ] **C2-Solution Mannual(Publisher/Year)**
 - [x] **P3-Lecture Handout([SP01/2024]/[SN01/2024])**
 - [ ] **P4-Problem Set(Providers/Year)**
