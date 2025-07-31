@@ -2,7 +2,7 @@
  * @Date         : 2025-06-20 11:31:36
  * @Author       : BDFD,bdfd2005@gmail.com
  * @Github       : https://github.com/bdfd
- * @LastEditTime : 2025-06-20 13:12:02
+ * @LastEditTime : 2025-07-31 19:11:11
  * @LastEditors  : <BDFD>
  * @Description  :
  * @FilePath     : \README.md
@@ -32,9 +32,9 @@ This course emphasises skill development, such as critical thinking, problem sol
 
 **Course Content**
 
-- [x] **C1-Texbook(Discovering Chemical Energetics/2019)**
+- [x] **C1-Texbook([Discovering Chemical Energetics/2019]/[SN01/2024])**
 - [ ] **C2-Solution Mannual(Publisher/Year)**
-- [x] **P3-Lecture Handout([SP01/2024]/[SN01/2024])**
+- [x] **P3-Lecture Handout([SP01/2024])**
 - [ ] **P4-Problem Set(Providers/Year)**
 - [ ] **P5-Course Project(Providers/Year)**
 - [ ] **P6-Past Quiz(Providers/Year)**
@@ -55,13 +55,13 @@ The courses enlisted as follows:
 - [x] **C7-The Equilibrium Constant**
 - [x] **C8-Solubility of Ionic Compound**
 - [x] **C9-Weak Acid and Base**
-- [ ] **C10-Buffer Solution**
-- [ ] **C11-Redox Reaction**
-- [ ] **C12-Voltaic Cell**
-- [ ] **C13-Electrolysis and Electrolytic Cells**
-- [ ] **C14-Batteries**
-- [ ] **C15-Reaction Rate and Rate Law**
-- [ ] **C16-Reaction Mechanism and Arrhenius Equation**
+- [x] **C10-Buffer Solution**
+- [x] **C11-Redox Reaction**
+- [x] **C12-Voltaic Cell**
+- [x] **C13-Electrolysis and Electrolytic Cells**
+- [x] **C14-Batteries**
+- [x] **C15-Reaction Rate and Rate Law**
+- [x] **C16-Reaction Mechanism and Arrhenius Equation**
 
 ## Course Description: 1 Course
 
